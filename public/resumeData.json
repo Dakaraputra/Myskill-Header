@@ -1,0 +1,111 @@
+{
+    "main": {
+        "name" : "Aryasatya Dakara Putransyah",
+        "description": "An undergraduate Informatics student of Gunadarma University",
+        "image":"Profilepic.png",
+        "github":"https://github.com/dakaraputra",
+        "project":"https://github.com/dakaraputra",
+        "bio": "A Frontend developer with deep curiosity for how things work and a drive to build solutions that matter. I specialize in crafting dynamic web applications using modern technologies like HTML, CSS, JavaScript, ReactJS",
+        "contactmessage":"Hello, here to contact me!",
+        "email": "dakaraputra@gmail.com",
+        "phone": "0812-XXXX-XXXX",
+        "address":{
+            "street":"",
+            "city":"Depok",
+            "state":"West Java",
+            "zip": "16157"
+        },
+        "website": "https://github.com/dakaraputra",
+        "resumedownload":"https://github.com/dakaraputra",
+        "social":[
+          {
+            "name": "facebook",
+            "url": "https://www.facebook.com/dakara.putra",
+            "className": "fa fa-facebook"
+          },
+          {
+            "name":"twitter",
+            "url":"http://twitter.com",
+            "className":"fa fa-twitter"
+          },
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/aryasatya-dakaraputra/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"http://instagram.com/dakaraputra",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/dakaraputra",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Skills to show off to employers",
+        "education" : [
+            {
+                "school": "Universitas Gunadarma",
+                "degree": "Bachelor degree of Computer Science",
+                "graduated": "2023-2027",
+                "description" : "I’m currently pursuing a degree in Computer Science, where I focus on web development, operating systems, and system design."
+            },
+            {
+                "school": "SMA 10 Depok",
+                "degree": "High School",
+                "graduated": " 2023",
+                "description": "Science"
+            }
+        ],
+        "work": [
+            {
+                "company" : "PT. ",
+                "title" : "Frontend developer",
+                "years": "April 2020 - Present",
+                "description": "Creating a website and maintenance"
+            }
+        ],
+        "skills": [
+            {
+                "name" : "HTML",
+                "level": "90%"
+            },
+            {
+                "name": "CSS",
+                "level": "70%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "85%"
+            },
+            {
+                "name": "Javascript",
+                "level": "88%"
+            },
+            {
+                "name": "PHP",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Saung Kenangan",
+                "category": "Website saung menggunakan HTML dan CSS akan dikembangkan dengan menambahkan fitur login",
+                "image": "saung.png",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title":"Perpus 08",
+                "category":"website untuk mencari buku. Dibuat dengan menggunakan Golang",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+              }
+        ]
+    }
+}
