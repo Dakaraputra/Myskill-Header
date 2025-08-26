@@ -117,7 +117,30 @@ class Contact extends Component {
                             </p>
                         </div>
 
-                        
+                        {/* <div className="widget widget_tweets">
+                            <h4 className="widget-title">Latest Tweets</h4>
+                            <ul id="twitter">
+                            <li>
+                                <span>
+                                The Avicii Experience tribute museum opened today in Stockholm.
+                                <br/>
+                                <a href="./">https://tinyurl.com/43re9w9f</a>
+                                </span>
+                                <b>
+                                <a href="./">Feb 26, 2022</a>
+                                </b>
+                            </li>
+                            <li>
+                                <span>
+                                “Spread positivity through my music, in message and enjoy success but not materialistic success” - Tim, 2018<br/>
+                                <a href="./">https://tinyurl.com/a2ansut2</a>
+                                </span>
+                                <b>
+                                <a href="./">Apr 20, 2019</a>
+                                </b>
+                            </li>
+                            </ul>
+                        </div> */}
                         </aside>
                     </Slide>
                 </div>
